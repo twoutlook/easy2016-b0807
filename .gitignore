@@ -8,3 +8,4 @@ __pycache__/
 
 # by Mark 2017-08-07
 db.sqlite3
+/static
