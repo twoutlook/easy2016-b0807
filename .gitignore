@@ -1,0 +1,10 @@
+
+
+# https://github.com/github/gitignore/blob/master/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# by Mark 2017-08-07
+db.sqlite3
